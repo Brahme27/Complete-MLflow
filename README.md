@@ -8,3 +8,6 @@ It mainly covers:
 2) MLflow Experiments – Recording and comparing multiple training runs
 3) Inferencing Model Artifacts with MLflow – Loading and testing saved models
 4) MLflow Model Registry Tracking – Managing model versions in the registry
+
+i was not able to add artifacts and mlruns folder for house Price prediction project(due to large size),
+you can run code in your system and track those
