@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/156444761319803524/685e97ee466845e7a0ee3ded4b47f67e/artifacts
+end_time: 1741106558022
+entry_point_name: ''
+experiment_id: '156444761319803524'
+lifecycle_stage: active
+run_id: 685e97ee466845e7a0ee3ded4b47f67e
+run_name: omniscient-sow-702
+run_uuid: 685e97ee466845e7a0ee3ded4b47f67e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741106552882
+status: 3
+tags: []
+user_id: zaynb
